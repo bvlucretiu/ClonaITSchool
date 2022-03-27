@@ -1,2 +1,0 @@
-# ClonaITSchool
-Clona HTML/CSS
